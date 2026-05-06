@@ -6,19 +6,17 @@ I'm on a mission to make head tracking happen.
 
 ## The stack
 
-- **[Headcam iOS](https://headcam.app)** - iPhone head tracking, you can join the TestFlight beta today.
-- **Headcam Android** - work in progress.
-- **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library, made for headcam.
+- **Headcam iOS** - iPhone head tracking ([join the TestFlight beta](https://headcam.app))
+- **Headcam Android** - Android head tracking (work in progress)
+- **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **Lopari** - launcher that surfaces installed games with native or mod-available head tracking support, and opens them with head tracking enabled in one click. 
-- **Lab** - the agentic development environment I made for managing all this stuff.
+- **Lopari** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click. 
+- **[Lab](https://www.youtube.com/watch?v=8Z1JwJWF_A0)** - the agentic development environment I made for managing all this stuff.
 
 ---
 
 ## The mods
-
-Ten mods have been released so far, many more are in development.
 
 | Game | Link |
 |---|---|
@@ -32,6 +30,8 @@ Ten mods have been released so far, many more are in development.
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) |
 | Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) |
 | Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) |
+
+New mods are released regularly.
 
 ---
 
