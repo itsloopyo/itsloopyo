@@ -11,7 +11,7 @@ I'm on a mission to make head tracking happen.
 - **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[Lopari](https://github.com/itsloopyo/lopari-releases)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
+- **[Lopari](https://github.com/itsloopyo/lopari-releases/releases)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
 - **[Lab](https://www.youtube.com/watch?v=8Z1JwJWF_A0)** - the agentic development environment I made for managing all this stuff.
 
 ---
