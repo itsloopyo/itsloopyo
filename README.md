@@ -18,20 +18,20 @@ I'm on a mission to make head tracking happen.
 
 ## The mods
 
-| Game | Link |
-|---|---|
-| Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) |
-| Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) |
-| Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) |
-| Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) |
-| Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) |
-| PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) |
-| BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) |
-| Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) |
-| Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) |
-| Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) |
-| Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) |
-| Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) |
+| Game | Link | Latest release |
+|---|---|---|
+| BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) | v0.3.2 (2026-05-03) |
+| Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) | v1.2.1 (2026-05-03) |
+| Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.1.2 (2026-05-03) |
+| Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.1.0 (2026-05-12) |
+| Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.3.1 (2026-05-03) |
+| Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) | v1.1.2 (2026-05-03) |
+| Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.1.0 (2026-04-29) |
+| PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) | v1.1.1 (2026-05-03) |
+| Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) | v0.2.1 (2026-05-03) |
+| Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) | v1.1.1 (2026-05-03) |
+| Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) | v1.1.2 (2026-05-03) |
+| Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) | v0.1.3 (2026-05-12) |
 
 New mods are released regularly.
 
