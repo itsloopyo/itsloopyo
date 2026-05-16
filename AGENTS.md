@@ -54,6 +54,14 @@ aliases. Backwards compatibility is for shipped public APIs (see the
 Libraries category rule); internal scaffolding gets cut clean.
 
 
+<!-- agent: gitignore -->
+.lab, .claude, our skills, agents.md/claude.md and any MCP servers should be added to the project's .gitignore so they are not tracked in git.
+
+
+<!-- agent: Lab Notes -->
+If there is important project-specific information, it will be found in a .lab/NOTES.md - read this file at the start of each session should it exist.
+
+
 <!-- agent: Pixi rules -->
 In pixi files:
 

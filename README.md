@@ -22,6 +22,7 @@ I'm on a mission to make head tracking happen.
 |---|---|---|
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) | v0.3.2 (2026-05-03) |
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) | v1.2.1 (2026-05-03) |
+| Easy Delivery Co | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) | v0.1.0 (2026-05-16) |
 | Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.1.2 (2026-05-03) |
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.1.0 (2026-05-12) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.3.1 (2026-05-03) |
