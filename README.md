@@ -31,6 +31,7 @@ I'm on a mission to make head tracking happen.
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) | v1.1.1 (2026-05-03) |
 | Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) | v0.2.1 (2026-05-03) |
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) | v1.1.1 (2026-05-03) |
+| Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) | v0.1.0 (2026-05-18) |
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) | v1.1.2 (2026-05-03) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) | v0.1.3 (2026-05-12) |
 
