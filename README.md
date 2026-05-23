@@ -33,6 +33,7 @@ I'm on a mission to make head tracking happen.
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) | v1.1.1 (2026-05-03) |
 | Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) | v0.1.0 (2026-05-18) |
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) | v1.1.2 (2026-05-03) |
+| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) | v0.1.0 (2026-05-23) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) | v0.1.4 (2026-05-18) |
 
 New mods are released regularly.
