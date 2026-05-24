@@ -20,6 +20,7 @@ I'm on a mission to make head tracking happen.
 
 | Game | Links | Latest release |
 |---|---|---|
+| Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [Nexus](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.1.0 (2026-05-24) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [Nexus](https://www.nexusmods.com/bioshock/mods/144) | v0.3.2 (2026-05-03) |
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [Nexus](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.2.1 (2026-05-03) |
 | Easy Delivery Co | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [Nexus](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.1.0 (2026-05-16) |
@@ -33,7 +34,7 @@ I'm on a mission to make head tracking happen.
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.1.1 (2026-05-03) |
 | Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.1.0 (2026-05-18) |
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [Nexus](https://www.nexusmods.com/subnautica/mods/3169) | v1.1.2 (2026-05-03) |
-| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.1.0 (2026-05-23) |
+| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.2.0 (2026-05-24) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [Nexus](https://www.nexusmods.com/valheim/mods/3356) | v0.1.4 (2026-05-18) |
 
 New mods are released regularly.
