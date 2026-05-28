@@ -1,1 +1,8 @@
-.claude/settings.local.json
+# Claude Code / agent tooling
+.claude/
+.lab/
+AGENTS.md
+CLAUDE.md
+
+# MCP servers
+.mcp.json
