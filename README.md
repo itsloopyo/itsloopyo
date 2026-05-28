@@ -43,11 +43,11 @@ New mods are released regularly.
 
 | Game | Links | Latest release |
 |---|---|---|
-| Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.1.0 (2026-05-27) |
-| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.1.0 (2026-05-26) |
-| Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.1.0 (2026-05-27) |
-| The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-05-27) |
-| Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.1.0 (2026-05-27) |
+| Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-05-28) |
+| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-05-28) |
+| Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-05-28) |
+| The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-05-28) |
+| Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-05-28) |
 
 ---
 
