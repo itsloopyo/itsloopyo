@@ -43,9 +43,15 @@ New mods are released regularly.
 
 | Game | Links | Latest release |
 |---|---|---|
+| Abzu | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-06-01) |
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-05-28) |
 | Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-05-28) |
 | Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-05-28) |
+| Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-06-01) |
+| Resident Evil 3 | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-06-01) |
+| Resident Evil 4 | [GitHub](https://github.com/itsloopyo/resident-evil-4-headtracking) | v0.0.0 (2026-06-01) |
+| Resident Evil 7 | [GitHub](https://github.com/itsloopyo/resident-evil-7-headtracking) | v0.0.0 (2026-06-01) |
+| Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-06-01) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-05-28) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-05-28) |
 
@@ -55,7 +61,9 @@ New mods are released regularly.
 
 Want to help?
 
-[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, get access to Lab along with any other unreleased tooling I happen to develop on this journey, and get insider info about upcoming mods.
+All mods are open source, and dev builds are freely available from each GitHub repo.
+
+[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, get one-click install of pre-release mods via [Lopari](https://github.com/itsloopyo/lopari-releases/releases), get access to Lab along with any other unreleased tooling I happen to develop on this journey, and get insider info about upcoming mods.
 
 ---
 
