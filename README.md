@@ -11,8 +11,8 @@ I'm on a mission to make head tracking happen.
 - **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[Lopari](https://github.com/itsloopyo/lopari-releases/releases)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
-- **[Lab](https://www.youtube.com/watch?v=8Z1JwJWF_A0)** - the agentic development environment I made for managing all this stuff.
+- **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
+- **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
 
 ---
 
@@ -34,7 +34,7 @@ I'm on a mission to make head tracking happen.
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.1.1 (2026-05-03) |
 | Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.1.0 (2026-05-18) |
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [Nexus](https://www.nexusmods.com/subnautica/mods/3169) | v1.1.2 (2026-05-03) |
-| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.2.0 (2026-05-24) |
+| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.3.1 (2026-06-02) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [Nexus](https://www.nexusmods.com/valheim/mods/3356) | v0.1.4 (2026-05-18) |
 
 New mods are released regularly.
@@ -43,9 +43,9 @@ New mods are released regularly.
 
 | Game | Links | Latest release |
 |---|---|---|
-| Abzu | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-06-01) |
+| Abzu | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-05-29) |
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-05-28) |
-| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-05-28) |
+| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-06-01) |
 | Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-05-28) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-06-01) |
 | Resident Evil 3 | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-06-01) |
@@ -63,7 +63,7 @@ Want to help?
 
 All mods are open source, and dev builds are freely available from each GitHub repo.
 
-[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, get one-click install of pre-release mods via [Lopari](https://github.com/itsloopyo/lopari-releases/releases), get access to Lab along with any other unreleased tooling I happen to develop on this journey, and get insider info about upcoming mods.
+[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, and get one-click install of pre-release mods via [Lopari](https://lopari.app), access to Lab and any other tooling I develop, along with insider info about upcoming mods.
 
 ---
 
