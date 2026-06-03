@@ -52,8 +52,11 @@ New mods are released regularly.
 | Resident Evil 4 | [GitHub](https://github.com/itsloopyo/resident-evil-4-headtracking) | v0.0.0 (2026-06-01) |
 | Resident Evil 7 | [GitHub](https://github.com/itsloopyo/resident-evil-7-headtracking) | v0.0.0 (2026-06-01) |
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-06-01) |
+| Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.0.0 (2026-06-04) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-05-28) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-05-28) |
+| Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-06-04) |
+| YAPYAP | [GitHub](https://github.com/itsloopyo/yapyap-headtracking) | v0.0.0 (2026-06-04) |
 
 ---
 
