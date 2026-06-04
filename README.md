@@ -16,7 +16,7 @@ I'm on a mission to make head tracking happen.
 
 ---
 
-## The mods
+## Released mods
 
 | Game | Links | Latest release |
 |---|---|---|
@@ -57,6 +57,8 @@ New mods are released regularly.
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-05-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-06-04) |
 | YAPYAP | [GitHub](https://github.com/itsloopyo/yapyap-headtracking) | v0.0.0 (2026-06-04) |
+
+Pre-release mods may have bugs or missing functionality, but are in a playable state. The latest dev build is available for download on each mod's release page.
 
 ---
 
