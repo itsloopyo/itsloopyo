@@ -4,20 +4,30 @@ I'm on a mission to make head tracking happen.
 
 ---
 
-## The stack
+## What I'm building
+
+### Apps
 
 - **Headcam iOS** - iPhone head tracking ([join the TestFlight beta](https://headcam.app))
 - **Headcam Android** - Android head tracking (work in progress)
+- **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
+
+### Tech & libraries
+
 - **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
+- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards used to capture ground-truth head pose when gathering training data for our model (an opentrack neuralnet tracker, used in the Android app).
+- **headshot** - drives Blender headlessly to generate synthetic head-pose visuals and data for training our head tracking model.
+- **headcam-contract** - the single source of truth for the head-pose model I/O contract (preprocessing and label encoding), keeping the dataset generator and trainer in lockstep with opentrack's neuralnet tracker.
+- **head-coach** - trains our head tracking model.
+
+### Tooling
+
 - **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
-- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates training data to train our own model for opentrack's neuralnet head tracker, used in the Android app.
+- **head-tracking-tester** - containerised app for testing and debugging head trackers.
 
----
-
-## Released mods
+### Released mods
 
 | Game | Links | Latest release |
 |---|---|---|
