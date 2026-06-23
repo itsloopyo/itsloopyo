@@ -87,4 +87,4 @@ All mods are open source, and dev builds are freely available from each GitHub r
 
 Want to follow along, test stuff, suggest games, or report bugs?
 
-Join the [Discord](https://discord.gg/Vb9JEgArV).
+Join the [Discord](https://discord.gg/dxyZdyFNT9).
