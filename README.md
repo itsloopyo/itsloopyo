@@ -24,8 +24,9 @@ I'm on a mission to make head tracking happen.
 
 ### Tooling
 
-- **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
 - **head-tracking-tester** - containerised app for testing and debugging head trackers.
+- **[qrdrop](https://github.com/itsloopyo/qrdrop)** - quickly share files and folders bidirectionally over the LAN via HTTP. `uvx qrdrop` brings it up with no traditional install and shows a code you scan with your phone to start transferring. Built it to streamline copying training data back and forth between devices.
+- **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
 
 ### Released mods
 
