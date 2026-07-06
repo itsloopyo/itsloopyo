@@ -59,12 +59,14 @@ New mods are released regularly.
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-06-07) |
 | Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-06-07) |
 | Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-06-07) |
-| Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-06-07) |
+| Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-06-27) |
+| Mirror's Edge | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-07-05) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-06-07) |
 | Resident Evil 3 | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-06-08) |
 | Resident Evil 4 | [GitHub](https://github.com/itsloopyo/resident-evil-4-headtracking) | v0.0.0 (2026-06-08) |
 | Resident Evil 7 | [GitHub](https://github.com/itsloopyo/resident-evil-7-headtracking) | v0.0.0 (2026-06-08) |
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-06-08) |
+| RV There Yet | [GitHub](https://github.com/itsloopyo/rv-there-yet-headtracking) | v0.0.0 (2026-07-05) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.0.0 (2026-06-07) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-06-08) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-06-07) |
