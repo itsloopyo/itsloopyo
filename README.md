@@ -44,7 +44,7 @@ I'm on a mission to make head tracking happen.
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.1.3 (2026-06-07) |
 | Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.1.1 (2026-06-08) |
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [Nexus](https://www.nexusmods.com/subnautica/mods/3169) | v1.2.0 (2026-06-22) |
-| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.3.2 (2026-06-07) |
+| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.4.1 (2026-07-15) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [Nexus](https://www.nexusmods.com/valheim/mods/3356) | v0.1.5 (2026-06-07) |
 
 New mods are released regularly.
