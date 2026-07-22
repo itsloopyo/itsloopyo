@@ -8,7 +8,7 @@ I'm on a mission to make head tracking happen.
 
 ### Apps
 
-- **Headcam iOS** - iPhone head tracking ([join the TestFlight beta](https://headcam.app))
+- **Headcam iOS** - iPhone head tracking ([get it on the App Store](https://apps.apple.com/us/app/headcam/id6759300260))
 - **Headcam Android** - Android head tracking ([join the testers group](https://groups.google.com/g/headcam-testers) for early access)
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
 
