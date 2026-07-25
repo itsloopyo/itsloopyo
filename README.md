@@ -17,8 +17,8 @@ I'm on a mission to make head tracking happen.
 - **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards used to capture ground-truth head pose when gathering training data for our model (an opentrack neuralnet tracker, used in the Android app).
-- **headshot** - the full head tracking model pipeline: drives Blender headlessly to generate synthetic head-pose visuals and data, trains the model on it, and owns the model I/O contract (preprocessing and label encoding) that keeps everything in lockstep with opentrack's neuralnet tracker.
+- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards, used to capture ground truth head pose from real footage when gathering training data for the neural net (an opentrack neuralnet tracker, used in the Android app).
+- **headshot** - the neural net factory. A render farm pumps out Blender faces plus pose, constrained generative I2I makes them pose-locked photoreal, and we validate every frame before it trains. No hand-labelled data, infinite jabronis.
 
 ### Tooling
 
