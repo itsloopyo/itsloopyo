@@ -22,7 +22,7 @@ I'm on a mission to make head tracking happen.
 
 ### Tooling
 
-- **head-tracking-tester** - containerised app for testing and debugging head trackers.
+- **[head-tracking-tester](https://github.com/itsloopyo/head-tracking-tester)** - containerised browser app for testing and debugging head trackers. Point up to four of them at it over OpenTrack UDP, watch them drive the same scene side by side, and read off rate, jitter, noise, duplicate frames and relative lag for each.
 - **[qrdrop](https://github.com/itsloopyo/qrdrop)** - quickly share files and folders bidirectionally over the LAN via HTTP. `uvx qrdrop` brings it up with no traditional install and shows a code you scan with your phone to start transferring. Built it to streamline copying training data back and forth between devices.
 - **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
 
