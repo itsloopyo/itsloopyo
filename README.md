@@ -38,7 +38,7 @@ I'm on a mission to make head tracking happen.
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.1.1 (2026-06-07) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.3.2 (2026-06-08) |
 | Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [Nexus](https://www.nexusmods.com/greenhell/mods/83) | v1.1.3 (2026-06-07) |
-| Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.1.0 (2026-04-29) |
+| Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.2.0 (2026-07-26) |
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [Nexus](https://www.nexusmods.com/peak/mods/167) | v1.1.2 (2026-06-07) |
 | Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) · [Nexus](https://www.nexusmods.com/residentevilrequiem/mods/1678) | v0.2.2 (2026-06-07) |
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.1.3 (2026-06-07) |
