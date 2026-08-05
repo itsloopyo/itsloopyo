@@ -8,8 +8,8 @@ I'm on a mission to make head tracking happen.
 
 ### Apps
 
-- **Headcam iOS** - iPhone head tracking ([get it on the App Store](https://apps.apple.com/us/app/headcam/id6759300260))
-- **Headcam Android** - Android head tracking ([join the testers group](https://groups.google.com/g/headcam-testers) for early access)
+- **Headcam iOS** - free iPhone head tracker, and it streams to OBS too ([get it on the App Store](https://apps.apple.com/us/app/headcam/id6759300260))
+- **Headcam Android** - free Android head tracker that also streams to OBS, powered by a ridiculously responsive custom neural network ([join the testers group](https://groups.google.com/g/headcam-testers) for early access)
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
 
 ### Tech & libraries
@@ -18,7 +18,7 @@ I'm on a mission to make head tracking happen.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
 - **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards, used to capture ground truth head pose from real footage when gathering training data for the neural net (an opentrack neuralnet tracker, used in the Android app).
-- **headshot** - the neural net factory. A render farm pumps out Blender faces plus pose, constrained generative I2I makes them pose-locked photoreal, and we validate every frame before it trains. No hand-labelled data, infinite jabronis.
+- **headshot-gen** - the neural net factory. A render farm pumps out Blender faces plus pose, constrained generative I2I makes them pose-locked photoreal, and we validate every frame before it trains. No hand-labelled data, infinite jabronis.
 
 ### Tooling
 
