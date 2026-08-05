@@ -17,8 +17,8 @@ I'm on a mission to make head tracking happen.
 - **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
 - **QuickFeed OBS Plugin** - OBS receiver.
 - **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards, used to capture ground truth head pose from real footage when gathering training data for the neural net (an opentrack neuralnet tracker, used in the Android app).
-- **headshot-gen** - the neural net factory. A render farm pumps out Blender faces plus pose, constrained generative I2I makes them pose-locked photoreal, and we validate every frame before it trains. No hand-labelled data, infinite jabronis.
+- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards, used to capture ground truth head pose from real footage when gathering training data for headshot, a novel neural net built to deliver blisteringly fast head tracking on entry level Android handsets.
+- **headshot-gen** - the neural net factory. Headlessly renders diverse parametric Blender faces, batch i2is them on a swarm of cloud workers with 4090s, drift-gates them via an adjudicator, and hands back limitless jabronis with labeled poses.
 
 ### Tooling
 
@@ -81,7 +81,7 @@ Want to help?
 
 All mods are open source, and dev builds are freely available from each GitHub repo.
 
-[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, and get one-click install of pre-release mods via [Lopari](https://lopari.app), access to Lab and any other tooling I develop, along with insider info about upcoming mods.
+[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, and get one-click install of pre-release mods via [Lopari](https://lopari.app), access to [Lab](https://lab.decoupled.cam) and any other tooling I develop, along with insider info about upcoming mods.
 
 ---
 
