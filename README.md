@@ -4,27 +4,11 @@ I'm on a mission to make head tracking happen.
 
 ---
 
-## What I'm building
-
-### Apps
+## All you need
 
 - **Headcam iOS** - free iPhone head tracker, and it streams to OBS too ([get it on the App Store](https://apps.apple.com/us/app/headcam/id6759300260))
 - **Headcam Android** - free Android head tracker that also streams to OBS, powered by a ridiculously responsive custom neural network ([join the testers group](https://groups.google.com/g/headcam-testers) for early access)
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
-
-### Tech & libraries
-
-- **QuickFeed** - ultra low-latency, zero drift phone-to-OBS video streaming library.
-- **QuickFeed OBS Plugin** - OBS receiver.
-- **[cameraunlock-core](https://github.com/itsloopyo/cameraunlock-core)** - shared, multi-engine head-tracking core for mods.
-- **[arucogen](https://github.com/itsloopyo/arucogen)** - generates ArUco/ChArUco tags and boards, used to capture ground truth head pose from real footage when gathering training data for headshot, a novel neural net built to deliver blisteringly fast head tracking on entry level Android handsets.
-- **headshot-gen** - the neural net factory. Headlessly renders diverse parametric Blender faces, batch i2is them on a swarm of cloud workers with 4090s, drift-gates them via an adjudicator, and hands back limitless jabronis with labeled poses.
-
-### Tooling
-
-- **[head-tracking-tester](https://github.com/itsloopyo/head-tracking-tester)** - containerised browser app for testing and debugging head trackers. Point up to four of them at it over OpenTrack UDP, watch them drive the same scene side by side, and read off rate, jitter, noise, duplicate frames and relative lag for each.
-- **[qrdrop](https://github.com/itsloopyo/qrdrop)** - quickly share files and folders bidirectionally over the LAN via HTTP. `uvx qrdrop` brings it up with no traditional install and shows a code you scan with your phone to start transferring. Built it to streamline copying training data back and forth between devices.
-- **[Lab](https://lab.decoupled.cam)** - the agentic development environment I made for managing all this stuff. ([video](https://www.youtube.com/watch?v=8Z1JwJWF_A0))
 
 ### Released mods
 
