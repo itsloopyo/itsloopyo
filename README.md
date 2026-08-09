@@ -6,14 +6,14 @@ I'm on a mission to make head tracking happen.
 
 ## All you need
 
-- **Headcam iOS** - free iPhone head tracker, and it streams to OBS too ([get it on the App Store](https://apps.apple.com/us/app/headcam/id6759300260))
-- **Headcam Android** - free Android head tracker that also streams to OBS, powered by a ridiculously responsive custom neural network ([join the testers group](https://groups.google.com/g/headcam-testers) for early access)
+- **[Headcam](https://headcam.app)** - free lightning fast head tracking and OBS streaming for iPhone and Android.
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
 
 ### Released mods
 
 | Game | Links | Latest release |
 |---|---|---|
+| Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) | v0.1.0 (2026-08-09) |
 | Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [Nexus](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.1.2 (2026-06-07) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [Nexus](https://www.nexusmods.com/bioshock/mods/144) | v0.3.5 (2026-06-07) |
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [Nexus](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.2.4 (2026-06-07) |
@@ -24,6 +24,7 @@ I'm on a mission to make head tracking happen.
 | Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [Nexus](https://www.nexusmods.com/greenhell/mods/83) | v1.1.3 (2026-06-07) |
 | Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.2.0 (2026-07-26) |
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [Nexus](https://www.nexusmods.com/peak/mods/167) | v1.1.2 (2026-06-07) |
+| Red Eclipse | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.2.0 (2026-08-09) |
 | Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) · [Nexus](https://www.nexusmods.com/residentevilrequiem/mods/1678) | v0.2.2 (2026-06-07) |
 | Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.1.3 (2026-06-07) |
 | RV There Yet | [GitHub](https://github.com/itsloopyo/rv-there-yet-headtracking) | v0.1.0 (2026-07-10) |
