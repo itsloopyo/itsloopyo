@@ -16,6 +16,7 @@ I'm on a mission to make head tracking happen.
 | Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) | v0.1.0 (2026-08-09) |
 | Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [Nexus](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.1.4 (2026-08-03) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [Nexus](https://www.nexusmods.com/bioshock/mods/144) | v0.3.6 (2026-08-03) |
+| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.2.0 (2026-08-11) |
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [Nexus](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.3.0 (2026-08-03) |
 | Easy Delivery Co | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [Nexus](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.1.2 (2026-08-03) |
 | Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.1.5 (2026-08-03) |
@@ -41,8 +42,8 @@ New mods are released regularly.
 | Game | Links | Latest release |
 |---|---|---|
 | Abzu | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-08-03) |
+| Alien Isolation | [GitHub](https://github.com/itsloopyo/alien-isolation-headtracking) | v0.0.0 (2026-08-12) |
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-03) |
-| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.0.0 (2026-08-03) |
 | Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-03) |
 | Mirror's Edge | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-03) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-03) |
