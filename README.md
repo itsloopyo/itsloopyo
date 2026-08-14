@@ -24,6 +24,7 @@ I'm on a mission to make head tracking happen.
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.1.1 (2026-06-07) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.4.0 (2026-08-03) |
 | Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [Nexus](https://www.nexusmods.com/greenhell/mods/83) | v1.2.0 (2026-08-03) |
+| Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v0.1.0 (2026-08-14) |
 | Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.2.3 (2026-08-07) |
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [Nexus](https://www.nexusmods.com/peak/mods/167) | v1.2.0 (2026-08-03) |
 | Red Eclipse | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.2.0 (2026-08-09) |
