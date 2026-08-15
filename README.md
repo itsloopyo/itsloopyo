@@ -14,6 +14,7 @@ I'm on a mission to make head tracking happen.
 | Game | Links | Latest release |
 |---|---|---|
 | Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) | v1.0.0 (2026-08-12) |
+| Assetto Corsa Rally | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) | v1.0.0 (2026-08-15) |
 | Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [Nexus](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.1.4 (2026-08-03) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [Nexus](https://www.nexusmods.com/bioshock/mods/144) | v0.3.6 (2026-08-03) |
 | Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v0.2.0 (2026-08-11) |
@@ -24,7 +25,7 @@ I'm on a mission to make head tracking happen.
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.1.1 (2026-06-07) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.4.0 (2026-08-03) |
 | Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [Nexus](https://www.nexusmods.com/greenhell/mods/83) | v1.2.0 (2026-08-03) |
-| Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v0.1.0 (2026-08-14) |
+| Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v0.1.1 (2026-08-14) |
 | Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.2.3 (2026-08-07) |
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [Nexus](https://www.nexusmods.com/peak/mods/167) | v1.2.0 (2026-08-03) |
 | Red Eclipse | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.2.0 (2026-08-09) |
