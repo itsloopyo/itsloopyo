@@ -47,6 +47,7 @@ New mods are released regularly.
 | Abzu | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-08-03) |
 | Alien Isolation | [GitHub](https://github.com/itsloopyo/alien-isolation-headtracking) | v0.0.0 (2026-08-12) |
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-03) |
+| Control: Ultimate Edition | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-18) |
 | Fallout 4 | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-08-16) |
 | Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-17) |
 | Mirror's Edge | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-03) |
