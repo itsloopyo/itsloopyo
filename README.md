@@ -51,6 +51,7 @@ New mods are released regularly.
 | Fallout 4 | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-08-16) |
 | Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-17) |
 | Mirror's Edge | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-03) |
+| Portal 2 | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | v0.0.0 (2026-08-18) |
 | R.E.P.O. | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-18) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-03) |
 | Resident Evil 3 | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-08-03) |
