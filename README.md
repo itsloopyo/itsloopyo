@@ -36,6 +36,7 @@ I'm on a mission to make head tracking happen.
 | Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [Nexus](https://www.nexusmods.com/subnautica/mods/3169) | v1.3.1 (2026-08-18) |
 | Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.5.0 (2026-08-03) |
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [Nexus](https://www.nexusmods.com/valheim/mods/3356) | v0.2.2 (2026-08-17) |
+| What Remains of Edith Finch | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v1.0.0 (2026-08-18) |
 | YAPYAP | [GitHub](https://github.com/itsloopyo/yapyap-headtracking) | v0.0.2 (2026-08-17) |
 
 New mods are released regularly.
@@ -60,7 +61,6 @@ New mods are released regularly.
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-03) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.0.0 (2026-08-03) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.2 (2026-08-18) |
-| What Remains of Edith Finch | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v0.0.0 (2026-08-18) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-03) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-03) |
 
