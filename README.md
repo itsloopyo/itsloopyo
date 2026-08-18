@@ -58,6 +58,7 @@ New mods are released regularly.
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-03) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.0.0 (2026-08-03) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.2 (2026-08-18) |
+| What Remains of Edith Finch | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v0.0.0 (2026-08-18) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-03) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-03) |
 
