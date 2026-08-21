@@ -13,29 +13,29 @@ I'm on a mission to make head tracking happen.
 
 | Game | Links | Latest release |
 |---|---|---|
-| Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) | v1.1.0 (2026-08-20) |
-| Assetto Corsa Rally | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) | v1.1.0 (2026-08-20) |
-| Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [Nexus](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
-| BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [Nexus](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
-| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) | v1.0.1 (2026-08-20) |
-| Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [Nexus](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.4.0 (2026-08-20) |
-| Easy Delivery Co | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [Nexus](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.2.0 (2026-08-20) |
+| Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/)| v1.1.0 (2026-08-20) |
+| Assetto Corsa Rally | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/)| v1.1.0 (2026-08-20) |
+| Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
+| BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
+| Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865)| v1.0.1 (2026-08-20) |
+| Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.4.0 (2026-08-20) |
+| Easy Delivery Co | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.2.0 (2026-08-20) |
 | Eternal Afternoon | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.2.0 (2026-08-20) |
 | Fallout: New Vegas | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.2.0 (2026-08-20) |
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
-| Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [Nexus](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
+| Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
 | Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.0 (2026-08-20) |
 | Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.3.0 (2026-08-20) |
-| PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [Nexus](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
+| PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [NexusMods](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
 | Red Eclipse | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.0 (2026-08-20) |
-| Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) · [Nexus](https://www.nexusmods.com/residentevilrequiem/mods/1678) | v0.3.0 (2026-08-20) |
-| Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [Nexus](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.3.0 (2026-08-20) |
+| Resident Evil Requiem | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) · [NexusMods](https://www.nexusmods.com/residentevilrequiem/mods/1678) | v0.3.0 (2026-08-20) |
+| Return of the Obra Dinn | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [NexusMods](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.3.0 (2026-08-20) |
 | RV There Yet | [GitHub](https://github.com/itsloopyo/rv-there-yet-headtracking) | v0.3.0 (2026-08-20) |
-| Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.3.0 (2026-08-20) |
-| Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [Nexus](https://www.nexusmods.com/subnautica/mods/3169) | v1.4.0 (2026-08-20) |
-| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [Nexus](https://www.nexusmods.com/subnautica2/mods/250) | v0.6.0 (2026-08-20) |
-| Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [Nexus](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
+| Skyrim Special Edition | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.3.0 (2026-08-20) |
+| Subnautica | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica/mods/3169) | v1.4.0 (2026-08-20) |
+| Subnautica 2 | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica2/mods/250) | v0.6.0 (2026-08-20) |
+| Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | What Remains of Edith Finch | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v1.1.0 (2026-08-20) |
 | YAPYAP | [GitHub](https://github.com/itsloopyo/yapyap-headtracking) | v0.2.0 (2026-08-20) |
 
