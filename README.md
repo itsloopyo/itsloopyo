@@ -50,8 +50,11 @@ New mods are released regularly.
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
 | Control: Ultimate Edition | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-20) |
 | Fallout 4 | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-08-20) |
+| Kingdom Come: Deliverance | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-08-24) |
+| Kingdom Come: Deliverance II | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
 | Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
 | Mirror's Edge | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-20) |
+| Pinball FX | [GitHub](https://github.com/itsloopyo/pinball-fx-headtracking) | v0.0.0 (2026-08-24) |
 | Portal 2 | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | v0.2.0 (2026-08-20) |
 | R.E.P.O. | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-20) |
