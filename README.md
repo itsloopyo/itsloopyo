@@ -6,14 +6,14 @@ I'm on a mission to make head tracking happen.
 
 ## All you need
 
-- **[Headcam](https://headcam.app)** - free lightning fast head tracking and OBS streaming for iPhone and Android.
+- **[OpenTrack](https://github.com/opentrack/opentrack)** or **[Headcam](https://headcam.app)** - both provide free head tracking - use OpenTrack with a webcam, or Headcam with an Android/iOS device.
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
 
 ### Released mods
 
 | Game | Links | Latest release |
 |---|---|---|
-| Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/)| v1.1.0 (2026-08-20) |
+| Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/)| v1.1.1 (2026-08-26) |
 | Assetto Corsa Rally | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/)| v1.1.0 (2026-08-20) |
 | Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
@@ -57,17 +57,18 @@ New mods are released regularly.
 | Pacific Drive | [GitHub](https://github.com/itsloopyo/pacific-drive-headtracking) | v0.0.0 (2026-08-26) |
 | Pinball FX | [GitHub](https://github.com/itsloopyo/pinball-fx-headtracking) | v0.0.0 (2026-08-25) |
 | Portal 2 | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | v0.2.0 (2026-08-20) |
+| Prey | [GitHub](https://github.com/itsloopyo/prey-headtracking) | v0.0.0 (2026-08-28) |
 | R.E.P.O. | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 2 | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 3 | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 4 | [GitHub](https://github.com/itsloopyo/resident-evil-4-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 7 | [GitHub](https://github.com/itsloopyo/resident-evil-7-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-20) |
-| Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v1.0.4 (2026-08-26) |
+| Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-08-20) |
 | Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) | v0.0.0 (2026-08-25) |
-| Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-20) |
+| Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
 Pre-release mods may have bugs or missing functionality, but are in a playable state. The latest dev build is available for download on each mod's release page.
