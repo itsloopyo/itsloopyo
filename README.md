@@ -25,7 +25,7 @@ I'm on a mission to make head tracking happen.
 | Firewatch | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
 | Green Hell | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
-| Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.0 (2026-08-20) |
+| Minecraft Bedrock Edition | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.2 (2026-08-29) |
 | Outer Wilds | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.3.0 (2026-08-20) |
 | PEAK | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [NexusMods](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
 | Red Eclipse | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.0 (2026-08-20) |
@@ -67,8 +67,8 @@ New mods are released regularly.
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-20) |
 | Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
-| The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-08-20) |
-| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) | v0.0.0 (2026-08-29) |
+| The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-08-20) |
+| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
