@@ -68,7 +68,7 @@ New mods are released regularly.
 | Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-08-20) |
-| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
+| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/744) | v0.0.0 (2026-08-30) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
