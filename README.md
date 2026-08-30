@@ -15,7 +15,7 @@ I'm on a mission to make head tracking happen.
 |---|---|---|
 | Assetto Corsa EVO | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/)| v1.1.1 (2026-08-26) |
 | Assetto Corsa Rally | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/)| v1.1.0 (2026-08-20) |
-| Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/games/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
+| Black and White | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
 | BioShock Remastered | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
 | Cyberpunk 2077 | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865)| v1.3.3 (2026-08-28) |
 | Dying Light 2 | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.4.0 (2026-08-20) |
@@ -68,7 +68,7 @@ New mods are released regularly.
 | Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.0.0 (2026-08-20) |
-| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/744) | v0.0.0 (2026-08-30) |
+| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
