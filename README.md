@@ -66,8 +66,9 @@ New mods are released regularly.
 | Resident Evil Village | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-20) |
 | Shadows of Doubt | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Sons of the Forest | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
+| Still Wakes the Deep | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.0.0 (2026-08-30) |
 | The Painscreek Killings | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-08-20) |
-| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) | v0.0.0 (2026-08-25) |
+| Titanfall 2 | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) | v0.0.0 (2026-08-29) |
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
