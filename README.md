@@ -1,6 +1,6 @@
 # Hi, I'm Loop 👋
 
-I'm on a mission to make head tracking happen.
+I'm on a mission to bring immersive head tracking to the games we love, making high-quality head tracking free, accessible, and effortless to use.
 
 ---
 
@@ -8,6 +8,11 @@ I'm on a mission to make head tracking happen.
 
 - **[OpenTrack](https://github.com/opentrack/opentrack)** or **[Headcam](https://headcam.app)** - both provide free head tracking - use OpenTrack with a webcam, or Headcam with an Android/iOS device.
 - **[Lopari](https://lopari.app)** - universal launcher for games with native *or* mod-available head tracking, runs them with head tracking enabled in one click.
+
+That's it! Download one of those trackers and Lopari, run Lopari, and if will detect all
+the games below and let you run them in one click (or take you to a download)
+
+If your games are installed in a weird way/location, you can download the mod from the release page of its repository and follow the instructions in the README.md to install.
 
 ### Released mods
 
@@ -42,7 +47,9 @@ I'm on a mission to make head tracking happen.
 
 New mods are released regularly.
 
-### Pre-release mods
+### In-testing mods
+
+All of these mods are in a playable state, and mature enough that 6dof tracking is present and look+aim are decoupled, but they have not been thoroughly tested beyond that and may have issues.
 
 | Game | Links | Latest release |
 |---|---|---|
@@ -72,17 +79,11 @@ New mods are released regularly.
 | Wobbly Life | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-08-28) |
 | Yakuza 0 | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
 
-Pre-release mods may have bugs or missing functionality, but are in a playable state. The latest dev build is available for download on each mod's release page.
-
 ---
 
-## Support
+## Want to help?
 
-Want to help?
-
-All mods are open source, and dev builds are freely available from each GitHub repo.
-
-[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, and get one-click install of pre-release mods via [Lopari](https://lopari.app), access to [Lab](https://lab.decoupled.cam) and any other tooling I develop, along with insider info about upcoming mods.
+[Patreon](https://www.patreon.com/itsloopyo) backers help fund future development and bug fixes, get one-click install/update of pre-release mods via [Lopari](https://lopari.app), access to [Lab](https://lab.decoupled.cam) and any other tooling I develop.
 
 ---
 
