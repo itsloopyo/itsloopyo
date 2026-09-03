@@ -58,6 +58,7 @@ All of these mods are in a playable state, and mature enough that 6dof tracking 
 | Assassin's Creed Unity | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
 | Control: Ultimate Edition | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-20) |
 | Fallout 4 | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-08-20) |
+| High On Life | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-03) |
 | Kingdom Come: Deliverance | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-08-24) |
 | Kingdom Come: Deliverance II | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
 | Metaphor: ReFantazio | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
