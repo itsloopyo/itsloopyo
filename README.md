@@ -24,6 +24,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 |---|---|---|---|
 | ABZÛ | Beta | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-08-20) |
 | Alien: Isolation | Beta | [GitHub](https://github.com/itsloopyo/alien-isolation-headtracking) | v0.0.0 (2026-08-20) |
+| Amnesia: The Dark Descent | Beta | [GitHub](https://github.com/itsloopyo/amnesia-the-dark-descent-headtracking) | v0.0.0 (2026-09-05) |
 | Assassin's Creed Unity | Beta | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
 | Assetto Corsa EVO | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.2 (2026-09-01) |
 | Assetto Corsa Rally | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/) | v1.1.0 (2026-08-20) |
@@ -53,6 +54,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | PEAK | Released | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [NexusMods](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
 | Pinball FX | Beta | [GitHub](https://github.com/itsloopyo/pinball-fx-headtracking) | v0.0.0 (2026-08-25) |
 | Portal 2 | Beta | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | v0.2.0 (2026-08-20) |
+| Portal with RTX | Released | [GitHub](https://github.com/itsloopyo/portal-with-rtx-headtracking) | v0.1.0 (2026-09-05) |
 | Prey | Beta | [GitHub](https://github.com/itsloopyo/prey-headtracking) | v0.0.0 (2026-08-28) |
 | R.E.P.O. | Beta | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-20) |
 | Red Eclipse | Released | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.0 (2026-08-20) |
