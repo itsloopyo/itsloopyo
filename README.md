@@ -47,6 +47,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Kingdom Come: Deliverance | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-08-24) |
 | Kingdom Come: Deliverance II | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
 | Metaphor: ReFantazio | Beta | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
+| Metro Exodus Enhanced Edition | Beta | [GitHub](https://github.com/itsloopyo/metro-exodus-enhanced-edition-headtracking) | v0.0.0 (2026-09-05) |
 | Minecraft: Bedrock Edition | Released | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.2 (2026-08-29) |
 | Mirror's Edge | Beta | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-20) |
 | Outer Wilds | Released | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.3.0 (2026-08-20) |
