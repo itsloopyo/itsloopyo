@@ -45,6 +45,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Valheim | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | What Remains of Edith Finch | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v1.1.1 (2026-09-03) |
 | Wreckfest | [GitHub](https://github.com/itsloopyo/wreckfest-headtracking) | v0.1.0 (2026-09-03) |
+| Wreckfest 2 | [GitHub](https://github.com/itsloopyo/wreckfest-2-headtracking) | v0.1.0 (2026-09-05) |
 | YAPYAP | [GitHub](https://github.com/itsloopyo/yapyap-headtracking) | v0.2.0 (2026-08-20) |
 
 New mods are released regularly.
