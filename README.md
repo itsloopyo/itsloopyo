@@ -69,6 +69,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | RV There Yet? | Released | [GitHub](https://github.com/itsloopyo/rv-there-yet-headtracking) | v0.3.0 (2026-08-20) |
 | Shadows of Doubt | Beta | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Skyrim Special Edition | Released | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.3.0 (2026-08-20) |
+| SnowRunner | Released | [GitHub](https://github.com/itsloopyo/snowrunner-headtracking) | v0.1.0 (2026-09-07) |
 | Sons of the Forest | Beta | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | Spec Ops: The Line | Beta | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | v0.0.0 (2026-09-05) |
 | Still Wakes the Deep | Released | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.2.0 (2026-08-30) |
