@@ -45,7 +45,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Green Hell | Released | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
 | Half-Life 2 | Released | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.1.0 (2026-08-31) |
 | High On Life | Beta | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-03) |
-| Kingdom Come: Deliverance | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-08-24) |
+| Kingdom Come: Deliverance | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance II | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
 | Metaphor: ReFantazio | Beta | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
 | Metro Exodus Enhanced Edition | Beta | [GitHub](https://github.com/itsloopyo/metro-exodus-enhanced-edition-headtracking) | v0.0.0 (2026-09-05) |
