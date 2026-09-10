@@ -30,8 +30,10 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Assassin's Creed Unity | Beta | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
 | Assetto Corsa EVO | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.3 (2026-09-09) |
 | Assetto Corsa Rally | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/) | v1.1.0 (2026-08-20) |
+| BioShock Infinite | Beta | [GitHub](https://github.com/itsloopyo/bioshock-infinite-headtracking) | v0.0.0 (2026-09-10) |
 | BioShock Remastered | Released | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
 | Black & White | Released | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
+| Blue Prince | Beta | [GitHub](https://github.com/itsloopyo/blue-prince-headtracking) | v0.0.0 (2026-09-10) |
 | Control: Ultimate Edition | Beta | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-20) |
 | Cyberpunk 2077 | Released | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.3.3 (2026-08-28) |
 | Deus Ex: Human Revolution - Director's Cut | Beta | [GitHub](https://github.com/itsloopyo/deus-ex-human-revolution-headtracking) | v0.0.0 (2026-09-05) |
@@ -40,18 +42,18 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Easy Delivery Co | Released | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.2.0 (2026-08-20) |
 | Eternal Afternoon | Released | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.2.0 (2026-08-20) |
 | Fallout 4 | Beta | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-09-09) |
-| Fallout: New Vegas | Released | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.2.0 (2026-08-20) |
+| Fallout: New Vegas | Beta | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-09-10) |
 | Firewatch | Released | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | Released | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
 | Green Hell | Released | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
 | Half-Life 2 | Released | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.1.0 (2026-08-31) |
 | High On Life | Beta | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-09-09) |
-| Kingdom Come: Deliverance II | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
+| Kingdom Come: Deliverance II | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-09-10) |
 | Metaphor: ReFantazio | Beta | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
 | Metro Exodus Enhanced Edition | Beta | [GitHub](https://github.com/itsloopyo/metro-exodus-enhanced-edition-headtracking) | v0.0.0 (2026-09-05) |
 | Minecraft: Bedrock Edition | Released | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.2 (2026-08-29) |
-| Mirror's Edge | Beta | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-08-20) |
+| Mirror's Edge | Beta | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-09-10) |
 | Outer Wilds | Released | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) | v1.3.0 (2026-08-20) |
 | Pacific Drive | Beta | [GitHub](https://github.com/itsloopyo/pacific-drive-headtracking) | v0.0.0 (2026-08-26) |
 | PEAK | Released | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [NexusMods](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
