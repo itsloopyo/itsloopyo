@@ -61,6 +61,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Portal 2 | Beta | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | v0.2.0 (2026-08-20) |
 | Portal with RTX | Released | [GitHub](https://github.com/itsloopyo/portal-with-rtx-headtracking) | v0.1.0 (2026-09-05) |
 | Prey | Beta | [GitHub](https://github.com/itsloopyo/prey-headtracking) | v0.0.0 (2026-08-28) |
+| Quake II RTX | Beta | [GitHub](https://github.com/itsloopyo/quake-ii-rtx-headtracking) | v0.0.0 (2026-09-10) |
 | R.E.P.O. | Beta | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-20) |
 | Red Eclipse | Released | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.0 (2026-08-20) |
 | Resident Evil 2 | Beta | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-20) |
@@ -74,6 +75,7 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Shadows of Doubt | Beta | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Skyrim Special Edition | Released | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.3.0 (2026-08-20) |
 | SnowRunner | Released | [GitHub](https://github.com/itsloopyo/snowrunner-headtracking) | v0.1.0 (2026-09-07) |
+| SOMA | Beta | [GitHub](https://github.com/itsloopyo/soma-headtracking) | v0.0.0 (2026-09-10) |
 | Sons of the Forest | Beta | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | Spec Ops: The Line | Beta | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | v0.0.0 (2026-09-05) |
 | Still Wakes the Deep | Released | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.2.0 (2026-08-30) |
