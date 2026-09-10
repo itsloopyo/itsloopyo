@@ -26,8 +26,9 @@ If your games are installed in a weird way/location, you can download the mod fr
 | ABZÛ | Beta | [GitHub](https://github.com/itsloopyo/abzu-headtracking) | v0.0.0 (2026-08-20) |
 | Alien: Isolation | Beta | [GitHub](https://github.com/itsloopyo/alien-isolation-headtracking) | v0.0.0 (2026-08-20) |
 | Amnesia: The Dark Descent | Beta | [GitHub](https://github.com/itsloopyo/amnesia-the-dark-descent-headtracking) | v0.0.0 (2026-09-05) |
+| Arx Fatalis | Beta | [GitHub](https://github.com/itsloopyo/arx-fatalis-headtracking) | v0.0.0 (2026-09-10) |
 | Assassin's Creed Unity | Beta | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
-| Assetto Corsa EVO | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.2 (2026-09-01) |
+| Assetto Corsa EVO | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.3 (2026-09-09) |
 | Assetto Corsa Rally | Released | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/) | v1.1.0 (2026-08-20) |
 | BioShock Remastered | Released | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
 | Black & White | Released | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
@@ -38,13 +39,13 @@ If your games are installed in a weird way/location, you can download the mod fr
 | Dying Light 2 Stay Human | Released | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.4.0 (2026-08-20) |
 | Easy Delivery Co | Released | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.2.0 (2026-08-20) |
 | Eternal Afternoon | Released | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.2.0 (2026-08-20) |
-| Fallout 4 | Beta | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-08-31) |
+| Fallout 4 | Beta | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-09-09) |
 | Fallout: New Vegas | Released | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.2.0 (2026-08-20) |
 | Firewatch | Released | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | Released | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
 | Green Hell | Released | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
 | Half-Life 2 | Released | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.1.0 (2026-08-31) |
-| High On Life | Beta | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-03) |
+| High On Life | Beta | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance II | Beta | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-08-24) |
 | Metaphor: ReFantazio | Beta | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
