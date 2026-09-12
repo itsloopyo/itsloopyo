@@ -1,12 +1,12 @@
 # Look around your games by moving your head
 
-Look around in games by moving your head. Head tracking lets the camera follow your movements while you play on your normal monitor. No VR headset needed.
+Head tracking is the *missing input* for the games we love. Sim players have known about it for ages. Now it's everybody else's turn to untether where you *look* from where you *aim*.
 
-Head tracking is the *missing input* for the games we love. Sim players have known about it for ages. Now it's everybody else's turn to untether where you *look* from where you *aim*, and experience your games in an immersive new way. No complicated setup, just click, tap, play.
+Free, no VR headset, no complicated setup. Use your normal monitor with a webcam or the phone in your pocket.
 
 ---
 
-## Get playing in three steps - for free
+## Get playing in three steps
 
 ### 1. Install Lopari
 
@@ -17,7 +17,7 @@ Head tracking is the *missing input* for the games we love. Sim players have kno
 - **Phone:** install **Headcam**, free on the [App Store](https://apps.apple.com/us/app/headcam/id6759300260) and [Google Play](https://play.google.com/store/apps/details?id=app.headcam.android).
 - **Webcam:** install **[OpenTrack](https://github.com/opentrack/opentrack)**, free and open source.
 
-The mods work with any OpenTrack compatible tracker, if you already have an OpenTrack setup, just use that.
+The mods work with any OpenTrack compatible tracker. If you already have an OpenTrack setup, just use that.
 
 ### 3. Press play
 
