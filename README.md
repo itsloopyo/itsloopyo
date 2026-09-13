@@ -17,7 +17,7 @@ Free, no VR headset, no complicated setup. Use your normal monitor with a webcam
 ### 2. Install a tracker for your phone or webcam
 
 - **Phone:** install **Headcam**, free on the [App Store](https://apps.apple.com/us/app/headcam/id6759300260) and [Google Play](https://play.google.com/store/apps/details?id=app.headcam.android).
-- **Webcam:** install **[OpenTrack](https://github.com/opentrack/opentrack)**, free and open source.
+- **Webcam:** install **[OpenTrack](https://github.com/opentrack/opentrack/releases)**, free and open source.
 
 The mods work with any OpenTrack compatible tracker. If you already have an OpenTrack setup, just use that.
 
@@ -73,7 +73,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Firewatch | Released | Xbox | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | Released | Steam | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
 | Green Hell | Released | Steam | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
-| Half-Life 2 | Released | Steam | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.1.0 (2026-08-31) |
+| Half-Life 2 | Released | Steam | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.2.0 (2026-09-13) |
 | High On Life | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance II | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-09-10) |
@@ -92,7 +92,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Prey | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/prey-headtracking) | v0.0.0 (2026-09-11) |
 | Quake II RTX | Beta | Steam | [GitHub](https://github.com/itsloopyo/quake-ii-rtx-headtracking) | v0.0.0 (2026-09-10) |
 | R.E.P.O. | Beta | Steam | [GitHub](https://github.com/itsloopyo/repo-headtracking) | v0.0.0 (2026-08-20) |
-| Red Eclipse | Released | Steam | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.0 (2026-08-20) |
+| Red Eclipse | Released | Steam | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.3.1 (2026-09-13) |
 | Resident Evil 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/resident-evil-2-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 3 | Beta | Steam | [GitHub](https://github.com/itsloopyo/resident-evil-3-headtracking) | v0.0.0 (2026-08-20) |
 | Resident Evil 4 | Beta | Steam | [GitHub](https://github.com/itsloopyo/resident-evil-4-headtracking) | v0.0.0 (2026-08-20) |
@@ -107,6 +107,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | SOMA | Beta | Steam | [GitHub](https://github.com/itsloopyo/soma-headtracking) | v0.0.0 (2026-09-10) |
 | Sons of the Forest | Beta | Steam | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | v0.1.0 (2026-08-20) |
 | Spec Ops: The Line | Beta | Steam | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | v0.0.0 (2026-09-05) |
+| Starfield | Beta | Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | v0.0.0 (2026-09-12) |
 | Still Wakes the Deep | Released | Steam | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.2.0 (2026-08-30) |
 | Subnautica | Released | Steam | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica/mods/3169) | v1.4.0 (2026-08-20) |
 | Subnautica 2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica2/mods/250) | v0.6.2 (2026-09-08) |
