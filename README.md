@@ -58,7 +58,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Assetto Corsa EVO | Released | Steam | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.3 (2026-09-09) |
 | Assetto Corsa Rally | Released | Steam | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/) | v1.1.0 (2026-08-20) |
 | BioShock Infinite | Beta | Steam | [GitHub](https://github.com/itsloopyo/bioshock-infinite-headtracking) | v0.0.0 (2026-09-16) |
-| BioShock Remastered | Released | Steam | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
+| BioShock Remastered | Released | Steam | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.5.0 (2026-09-17) |
 | Black & White | Released | Manual | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.1 (2026-09-16) |
 | Blue Prince | Beta | Xbox | [GitHub](https://github.com/itsloopyo/blue-prince-headtracking) | v0.0.0 (2026-09-10) |
 | Control: Ultimate Edition | Beta | Steam | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-20) |
@@ -121,6 +121,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | The Vanishing of Ethan Carter Redux | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-vanishing-of-ethan-carter-redux-headtracking) | v0.0.0 (2026-09-11) |
 | The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | v0.0.0 (2026-09-16) |
 | Titanfall 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
+| Trepang2 | Released | Steam, Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/trepang2-headtracking) | v0.1.0 (2026-09-17) |
 | Valheim | Released | Steam | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | Viewfinder | Beta | Steam | [GitHub](https://github.com/itsloopyo/viewfinder-headtracking) | v0.0.0 (2026-09-15) |
 | What Remains of Edith Finch | Released | Steam | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v1.1.1 (2026-09-03) |
