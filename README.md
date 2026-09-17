@@ -57,24 +57,27 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Assassin's Creed Unity | Beta | Ubisoft Connect | [GitHub](https://github.com/itsloopyo/assassins-creed-unity-headtracking) | v0.0.0 (2026-08-20) |
 | Assetto Corsa EVO | Released | Steam | [GitHub](https://github.com/itsloopyo/assetto-corsa-evo-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-evo-head-tracking.86062/) | v1.1.3 (2026-09-09) |
 | Assetto Corsa Rally | Released | Steam | [GitHub](https://github.com/itsloopyo/assetto-corsa-rally-headtracking) · [Overtake.gg](https://www.overtake.gg/downloads/assetto-corsa-rally-head-tracking.86201/) | v1.1.0 (2026-08-20) |
-| BioShock Infinite | Beta | Steam | [GitHub](https://github.com/itsloopyo/bioshock-infinite-headtracking) | v0.0.0 (2026-09-10) |
+| BioShock Infinite | Beta | Steam | [GitHub](https://github.com/itsloopyo/bioshock-infinite-headtracking) | v0.0.0 (2026-09-16) |
 | BioShock Remastered | Released | Steam | [GitHub](https://github.com/itsloopyo/bioshock-remastered-headtracking) · [NexusMods](https://www.nexusmods.com/bioshock/mods/144) | v0.4.0 (2026-08-20) |
-| Black & White | Released | Manual | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.0 (2026-08-20) |
+| Black & White | Released | Manual | [GitHub](https://github.com/itsloopyo/black-and-white-headtracking) · [NexusMods](https://www.nexusmods.com/blackandwhite/mods/26) | v0.2.1 (2026-09-16) |
 | Blue Prince | Beta | Xbox | [GitHub](https://github.com/itsloopyo/blue-prince-headtracking) | v0.0.0 (2026-09-10) |
 | Control: Ultimate Edition | Beta | Steam | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | v0.0.0 (2026-08-20) |
 | Cyberpunk 2077 | Released | GOG | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.3.3 (2026-08-28) |
 | Deus Ex: Human Revolution - Director's Cut | Beta | Steam | [GitHub](https://github.com/itsloopyo/deus-ex-human-revolution-headtracking) | v0.0.0 (2026-09-05) |
 | Dishonored | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-headtracking) | v0.0.0 (2026-09-05) |
+| Dishonored 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-2-headtracking) | v0.0.0 (2026-09-16) |
 | Dying Light 2 Stay Human | Released | Steam | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.4.0 (2026-08-20) |
 | Easy Delivery Co | Released | Xbox | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.2.0 (2026-08-20) |
 | Eternal Afternoon | Released | Steam | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.2.0 (2026-08-20) |
 | Fallout 4 | Beta | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | v0.0.0 (2026-09-09) |
-| Fallout: New Vegas | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.0.0 (2026-09-10) |
+| Fallout: New Vegas | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.3.1 (2026-09-16) |
+| Far Cry 6 | Beta | Ubisoft Connect | [GitHub](https://github.com/itsloopyo/far-cry-6-headtracking) | v0.0.0 (2026-09-17) |
 | Firewatch | Released | Xbox | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
 | Gone Home | Released | Steam | [GitHub](https://github.com/itsloopyo/gone-home-headtracking) | v1.5.0 (2026-08-20) |
 | Green Hell | Released | Steam | [GitHub](https://github.com/itsloopyo/green-hell-headtracking) · [NexusMods](https://www.nexusmods.com/greenhell/mods/83) | v1.3.0 (2026-08-20) |
 | Half-Life 2 | Released | Steam | [GitHub](https://github.com/itsloopyo/half-life-2-headtracking) | v0.2.0 (2026-09-13) |
 | High On Life | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/high-on-life-headtracking) | v0.0.0 (2026-09-09) |
+| Indiana Jones and the Great Circle | Beta | Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/indiana-jones-and-the-great-circle-headtracking) | v0.0.0 (2026-09-17) |
 | Kingdom Come: Deliverance | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-headtracking) | v0.0.0 (2026-09-09) |
 | Kingdom Come: Deliverance II | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/kingdom-come-deliverance-2-headtracking) | v0.0.0 (2026-09-10) |
 | Metaphor: ReFantazio | Beta | Steam | [GitHub](https://github.com/itsloopyo/metaphor-refantazio-headtracking) | v0.0.0 (2026-08-20) |
@@ -82,7 +85,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Minecraft: Bedrock Edition | Released | Microsoft Store | [GitHub](https://github.com/itsloopyo/minecraft-bedrock-edition-headtracking) | v1.1.2 (2026-08-29) |
 | Mirror's Edge | Beta | Steam | [GitHub](https://github.com/itsloopyo/mirrors-edge-headtracking) | v0.0.0 (2026-09-10) |
 | Outer Wilds | Released | Steam | [GitHub](https://github.com/itsloopyo/outer-wilds-headtracking) · [OWMM](https://outerwildsmods.com/mods/headtracking/) | v1.3.0 (2026-08-20) |
-| Outlast | Beta | Steam | [GitHub](https://github.com/itsloopyo/outlast-headtracking) | v0.0.0 (2026-09-11) |
+| Outlast | Beta | Steam | [GitHub](https://github.com/itsloopyo/outlast-headtracking) | v0.0.0 (2026-09-16) |
 | Pacific Drive | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/pacific-drive-headtracking) | v0.0.0 (2026-09-11) |
 | PEAK | Released | Steam | [GitHub](https://github.com/itsloopyo/peak-headtracking) · [NexusMods](https://www.nexusmods.com/peak/mods/167) | v1.3.0 (2026-08-20) |
 | Pinball FX | Beta | Steam | [GitHub](https://github.com/itsloopyo/pinball-fx-headtracking) | v0.0.0 (2026-08-25) |
@@ -100,6 +103,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Resident Evil Requiem | Released | Steam | [GitHub](https://github.com/itsloopyo/resident-evil-requiem-headtracking) · [NexusMods](https://www.nexusmods.com/residentevilrequiem/mods/1678) | v0.4.0 (2026-08-25) |
 | Resident Evil Village | Beta | Steam | [GitHub](https://github.com/itsloopyo/resident-evil-village-headtracking) | v0.0.0 (2026-08-20) |
 | Return of the Obra Dinn | Released | Steam | [GitHub](https://github.com/itsloopyo/obra-dinn-headtracking) · [NexusMods](https://www.nexusmods.com/returnoftheobradinn/mods/9) | v1.3.0 (2026-08-20) |
+| RoadCraft | Released | Steam | [GitHub](https://github.com/itsloopyo/roadcraft-headtracking) | v0.1.0 (2026-09-16) |
 | RV There Yet? | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/rv-there-yet-headtracking) | v0.3.0 (2026-08-20) |
 | Shadows of Doubt | Beta | Steam | [GitHub](https://github.com/itsloopyo/shadows-of-doubt-headtracking) | v0.0.0 (2026-08-26) |
 | Skyrim Special Edition | Released | Steam | [GitHub](https://github.com/itsloopyo/skyrim-special-edition-headtracking) · [NexusMods](https://www.nexusmods.com/skyrimspecialedition/mods/180328) | v0.3.0 (2026-08-20) |
@@ -109,12 +113,13 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Spec Ops: The Line | Beta | Steam | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | v0.0.0 (2026-09-05) |
 | Starfield | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | v0.0.1 (2026-09-14) |
 | Still Wakes the Deep | Released | Steam | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.2.0 (2026-08-30) |
+| Stormworks: Build and Rescue | Beta | Steam | [GitHub](https://github.com/itsloopyo/stormworks-headtracking) | v0.0.0 (2026-09-16) |
 | Subnautica | Released | Steam | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica/mods/3169) | v1.4.0 (2026-08-20) |
 | Subnautica 2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica2/mods/250) | v0.6.2 (2026-09-08) |
 | Superliminal | Released | Steam, Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/superliminal-headtracking) | v0.2.0 (2026-09-13) |
 | The Painscreek Killings | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-08-20) |
 | The Vanishing of Ethan Carter Redux | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-vanishing-of-ethan-carter-redux-headtracking) | v0.0.0 (2026-09-11) |
-| The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | v0.0.0 (2026-09-13) |
+| The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | v0.0.0 (2026-09-16) |
 | Titanfall 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
 | Valheim | Released | Steam | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | Viewfinder | Beta | Steam | [GitHub](https://github.com/itsloopyo/viewfinder-headtracking) | v0.0.0 (2026-09-15) |
