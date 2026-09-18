@@ -121,7 +121,7 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | The Vanishing of Ethan Carter Redux | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-vanishing-of-ethan-carter-redux-headtracking) | v0.0.0 (2026-09-11) |
 | The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | v0.0.0 (2026-09-16) |
 | Titanfall 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
-| Trepang2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/trepang2-headtracking) | v0.1.0 (2026-09-17) |
+| Trepang2 | Released | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/trepang2-headtracking) | v0.2.0 (2026-09-18) |
 | TT Isle of Man: Ride on the Edge 3 | Beta | Steam | [GitHub](https://github.com/itsloopyo/tt-isle-of-man-ride-on-the-edge-3-headtracking) | v0.0.0 (2026-09-18) |
 | Valheim | Released | Steam | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | Viewfinder | Beta | Steam | [GitHub](https://github.com/itsloopyo/viewfinder-headtracking) | v0.0.0 (2026-09-15) |
