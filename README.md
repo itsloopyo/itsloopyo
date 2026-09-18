@@ -116,17 +116,17 @@ If your game is installed somewhere Lopari doesn't look, download the mod from t
 | Stormworks: Build and Rescue | Beta | Steam | [GitHub](https://github.com/itsloopyo/stormworks-headtracking) | v0.0.0 (2026-09-16) |
 | Subnautica | Released | Steam | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica/mods/3169) | v1.4.0 (2026-08-20) |
 | Subnautica 2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica2/mods/250) | v0.6.2 (2026-09-08) |
-| Superliminal | Released | Steam, Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/superliminal-headtracking) | v0.2.0 (2026-09-13) |
+| Superliminal | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/superliminal-headtracking) | v0.2.0 (2026-09-13) |
 | The Painscreek Killings | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | v0.1.0 (2026-08-20) |
 | The Vanishing of Ethan Carter Redux | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-vanishing-of-ethan-carter-redux-headtracking) | v0.0.0 (2026-09-11) |
 | The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | v0.0.0 (2026-09-16) |
 | Titanfall 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/titanfall-2-headtracking) · [NexusMods](https://www.nexusmods.com/titanfall2/mods/74) | v0.0.0 (2026-08-30) |
-| Trepang2 | Released | Steam, Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/trepang2-headtracking) | v0.1.0 (2026-09-17) |
+| Trepang2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/trepang2-headtracking) | v0.1.0 (2026-09-17) |
 | Valheim | Released | Steam | [GitHub](https://github.com/itsloopyo/valheim-headtracking) · [NexusMods](https://www.nexusmods.com/valheim/mods/3356) | v0.3.0 (2026-08-20) |
 | Viewfinder | Beta | Steam | [GitHub](https://github.com/itsloopyo/viewfinder-headtracking) | v0.0.0 (2026-09-15) |
 | What Remains of Edith Finch | Released | Steam | [GitHub](https://github.com/itsloopyo/what-remains-of-edith-finch-headtracking) | v1.1.1 (2026-09-03) |
 | Wobbly Life | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/wobbly-life-headtracking) | v0.0.0 (2026-09-11) |
-| Wolfenstein: The New Order | Beta | Steam, Xbox, Microsoft Store | [GitHub](https://github.com/itsloopyo/wolfenstein-the-new-order-headtracking) | v0.0.0 (2026-09-13) |
+| Wolfenstein: The New Order | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/wolfenstein-the-new-order-headtracking) | v0.0.0 (2026-09-13) |
 | Wreckfest | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/wreckfest-headtracking) | v0.1.0 (2026-09-03) |
 | Wreckfest 2 | Released | Steam | [GitHub](https://github.com/itsloopyo/wreckfest-2-headtracking) | v0.1.0 (2026-09-05) |
 | Yakuza 0 | Beta | Steam | [GitHub](https://github.com/itsloopyo/yakuza-0-headtracking) | v0.0.0 (2026-08-20) |
