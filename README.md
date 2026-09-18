@@ -1,10 +1,10 @@
 # Look around your games by moving your head
 
-Head tracking is the *missing input* for video games. Sim players have known about it for ages. Now it's everybody else's turn to look around naturally using your head to control the camera, untethering it from your aim.
-
-<p align="center"><img src="assets/readme-clip.gif" width="600" alt="Head tracking in action: first-person gameplay with the player's face camera in the lower-right corner."></p>
+Head tracking is the *missing input* for video games. Sim players have known about it for ages. Now it's everybody else's turn to look around naturally using your head to control the in-game camera.
 
 Free, no VR headset, no complicated setup. Use your normal monitor with a webcam or the phone in your pocket.
+
+<p align="center"><img src="assets/readme-clip.gif" width="600" alt="Head tracking in action: first-person gameplay with the player's face camera in the lower-right corner."></p>
 
 ---
 
