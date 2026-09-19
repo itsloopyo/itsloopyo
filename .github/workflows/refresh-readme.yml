@@ -1,6 +1,6 @@
 name: refresh-readme
 
-# The "New in the past 30 days" list is a window over the calendar, so it
+# The "New this week" list is a window over the calendar, so it
 # goes stale on days when nothing is published and nobody runs
 # `pixi run update-metadata`. Regenerate it nightly from the live catalog
 # (lopari.app/mods.json, public). The mod table below it comes from the same
