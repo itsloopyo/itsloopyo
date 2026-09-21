@@ -59,7 +59,6 @@ Lopari also lists games that have head tracking built in, with no mod needed.
 - **Outlast** (Beta), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/outlast-headtracking)
 - **RoadCraft** (Released), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/roadcraft-headtracking)
 - **Stormworks: Build and Rescue** (Beta), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/stormworks-headtracking)
-- **Viewfinder** (Beta), added 2026-09-14 · [GitHub](https://github.com/itsloopyo/viewfinder-headtracking)
 
 <!-- END NEW ADDITIONS -->
 
