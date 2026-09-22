@@ -4,7 +4,7 @@
 
 In most games, where you look is where you aim. Head tracking breaks that link: your head moves the view while your mouse or controller keeps aiming, so you can glance at a mirror or lean around a corner without your crosshair following.
 
-Sim racers and flight simmers have played this way for decades, on the same monitor, controls and setup you already have.
+Sim racers and flight simmers have played this way for decades. Now everyone else can, with the monitor and controls they already have.
 
 **I think it deserves to be in every game.**
 
