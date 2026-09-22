@@ -1,10 +1,20 @@
-# Look around your games by moving your head
+# Head tracking: the missing input for video games
 
-Head tracking is the *missing input* for video games. Sim players have known about it for ages. Now it's everybody else's turn to look around naturally using your head to control the in-game camera.
+**Move your head to look around. No VR headset or special hardware, just a webcam or phone.**
 
-Free, no VR headset, no complicated setup. Use your normal monitor with a webcam or the phone in your pocket.
+In most games, where you look is where you aim. Head tracking breaks that link: your head moves the view while your mouse or controller keeps aiming, so you can glance at a mirror or lean around a corner without your crosshair following.
 
-<p align="center"><img src="assets/readme-clip.gif" width="600" alt="Head tracking in action: first-person gameplay with the player's face camera in the lower-right corner."></p>
+Sim racers and flight simmers have played this way for decades, on the same monitor, controls and setup you already have.
+
+**I think it deserves to be in every game.**
+
+<p align="center"><img src="assets/readme-clip.gif" width="600" alt="Head tracking in Portal 2: the view turns with the player's head, shown in a face camera at the bottom of the frame."></p>
+
+Hey, I'm Loop, and I'm trying to bust head tracking out of its niche.
+
+I make easy-to-use head tracking software, and I mod open-source, OpenTrack-compatible head tracking into games that never shipped with it. <!-- BEGIN MOD COUNT --><!-- END MOD COUNT --> games so far.
+
+Lopari, my launcher, finds your games and sets the mods up for you. Pick a supported game, press **Play with head tracking**, and go.
 
 ---
 
@@ -16,14 +26,16 @@ Free, no VR headset, no complicated setup. Use your normal monitor with a webcam
 
 ### 2. Install a tracker for your phone or webcam
 
-- **Phone:** install **Headcam**, free on the [App Store](https://apps.apple.com/us/app/headcam/id6759300260) and [Google Play](https://play.google.com/store/apps/details?id=app.headcam.android).
-- **Webcam:** install **[OpenTrack](https://github.com/opentrack/opentrack/releases)**, free and open source.
+- **Phone:** install **Headcam** from the [App Store](https://apps.apple.com/us/app/headcam/id6759300260) or [Google Play](https://play.google.com/store/apps/details?id=app.headcam.android).
+- **Webcam:** install **[OpenTrack](https://github.com/opentrack/opentrack/releases)**.
 
-The mods work with any OpenTrack compatible tracker. If you already have an OpenTrack setup, just use that.
+The mods work with any OpenTrack compatible tracker. If you already have an OpenTrack setup, you can just use that.
 
 ### 3. Press play
 
-Lopari finds all the supported games on your PC. Pick one and press "Play with head tracking": if a mod is needed it's installed automatically and the game is launched with head tracking enabled. Want it back how it came? Choose "Remove", or "Play vanilla".
+Lopari finds the supported games on your PC. Pick one and press **Play with head tracking**. If a mod is needed, it's installed automatically and the game launches with head tracking enabled.
+
+Want it back how it came? Choose **Remove** or **Play vanilla**.
 
 Not sure your tracker is working? Hit **Test tracking** in Lopari before you launch.
 
@@ -34,7 +46,7 @@ Not sure your tracker is working? Hit **Test tracking** in Lopari before you lau
 ## Supported games
 
 - **Released** mods are well tested. Lopari installs them in one click.
-- **Beta** mods are feature complete but less tested, and some may have known issues. Lopari links you to the download on GitHub. Follow the instructions in that mod's README to install it.
+- **Beta** mods are feature complete but less tested, and some may have known issues. Install them manually from GitHub, or through Lopari if you're a Patreon backer.
 
 Outer Wilds is the one exception: its mod installs through the [Outer Wilds Mod Manager](https://outerwildsmods.com/mods/headtracking/).
 
@@ -164,16 +176,14 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 
 <!-- END MOD TABLE -->
 
-Every mod is free and open source under the MIT licence. More are on the way.
+Every mod is free and open source under the MIT licence.
 
 ---
 
 ## Support
 
-[Patreon](https://www.patreon.com/itsloopyo) backers fund new mods and bug fixes. As a thank you, backers get one-click install and updates of Beta mods in [Lopari](https://lopari.app), plus access to [Lab](https://lab.decoupled.cam) and any other tooling I build.
+Everything here is free, and every mod is open source.
 
----
-
-## Discord
+If you'd like to support the work, [Patreon](https://www.patreon.com/itsloopyo) backers help fund new mods, fixes and whatever I build next. Backers also get one-click install and updates for Beta mods in [Lopari](https://lopari.app), plus access to [Lab](https://lab.decoupled.cam) and other tooling I build.
 
 Want to suggest a game, report a bug, or just hang out? Join the [Discord](https://discord.gg/dxyZdyFNT9).
