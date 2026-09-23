@@ -68,10 +68,6 @@ Lopari also lists games that have head tracking built in, with no mod needed.
 - **Far Cry 6** (Released), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/far-cry-6-headtracking)
 - **Indiana Jones and the Great Circle** (Beta), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/indiana-jones-and-the-great-circle-headtracking)
 - **Trepang2** (Released), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/trepang2-headtracking)
-- **Dishonored 2** (Beta), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/dishonored-2-headtracking)
-- **Outlast** (Beta), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/outlast-headtracking)
-- **RoadCraft** (Released), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/roadcraft-headtracking)
-- **Stormworks: Build and Rescue** (Beta), added 2026-09-16 · [GitHub](https://github.com/itsloopyo/stormworks-headtracking)
 
 <!-- END NEW ADDITIONS -->
 
