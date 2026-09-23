@@ -4,15 +4,15 @@
 
 In most games, where you look is where you aim. Head tracking breaks that link: your head moves the view while your mouse or controller keeps aiming, so you can glance at a mirror or lean around a corner without your crosshair following.
 
-Sim racers and flight simmers have played this way for decades. Now everyone else can, with the monitor and controls they already have.
+Sim racers and flight simmers have played this way for decades, but it has stayed stuck in that niche.
 
 **I think it deserves to be in every game.**
 
 <p align="center"><img src="assets/readme-clip.gif" width="600" alt="Head tracking in Portal 2: the view turns with the player's head, shown in a face camera at the bottom of the frame."></p>
 
-Hey, I'm Loop, and I'm trying to bust head tracking out of its niche.
+Hey, I'm Loop, and I'm trying to make head tracking finally happen, for everybody.
 
-I make easy-to-use head tracking software, and I mod open-source, OpenTrack-compatible head tracking into games that never shipped with it. <!-- BEGIN MOD COUNT -->90<!-- END MOD COUNT --> games so far.
+I make easy-to-use head tracking software, and I mod open-source, OpenTrack-compatible support into games that never shipped with it. <!-- BEGIN MOD COUNT -->90<!-- END MOD COUNT --> games so far.
 
 Lopari, my launcher, finds your games and sets the mods up for you. Pick a supported game, press **Play with head tracking**, and go.
 
