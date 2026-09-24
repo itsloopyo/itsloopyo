@@ -65,9 +65,6 @@ Lopari also lists games that have head tracking built in, with no mod needed.
 - **Thief** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/thief-headtracking)
 - **Black Mesa** (Released), added 2026-09-18 · [GitHub](https://github.com/itsloopyo/black-mesa-headtracking)
 - **TT Isle of Man: Ride on the Edge 3** (Beta), added 2026-09-18 · [GitHub](https://github.com/itsloopyo/tt-isle-of-man-ride-on-the-edge-3-headtracking)
-- **Far Cry 6** (Released), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/far-cry-6-headtracking)
-- **Indiana Jones and the Great Circle** (Beta), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/indiana-jones-and-the-great-circle-headtracking)
-- **Trepang2** (Released), added 2026-09-17 · [GitHub](https://github.com/itsloopyo/trepang2-headtracking)
 
 <!-- END NEW ADDITIONS -->
 
