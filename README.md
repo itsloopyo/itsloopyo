@@ -63,8 +63,6 @@ Lopari also lists games that have head tracking built in, with no mod needed.
 - **Pathologic 2** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/pathologic-2-headtracking)
 - **The Outer Worlds: Spacer's Choice Edition** (Released), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/outer-worlds-spacers-choice-edition-headtracking)
 - **Thief** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/thief-headtracking)
-- **Black Mesa** (Released), added 2026-09-18 · [GitHub](https://github.com/itsloopyo/black-mesa-headtracking)
-- **TT Isle of Man: Ride on the Edge 3** (Beta), added 2026-09-18 · [GitHub](https://github.com/itsloopyo/tt-isle-of-man-ride-on-the-edge-3-headtracking)
 
 <!-- END NEW ADDITIONS -->
 
