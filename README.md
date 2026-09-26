@@ -58,11 +58,6 @@ Lopari also lists games that have head tracking built in, with no mod needed.
 
 - **No Man's Sky** (Released), added 2026-09-22 · [GitHub](https://github.com/itsloopyo/no-mans-sky-headtracking)
 - **Subliminal** (Released), added 2026-09-20 · [GitHub](https://github.com/itsloopyo/subliminal-headtracking)
-- **Dying Light** (Released), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/dying-light-headtracking)
-- **Ghostrunner** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/ghostrunner-headtracking)
-- **Pathologic 2** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/pathologic-2-headtracking)
-- **The Outer Worlds: Spacer's Choice Edition** (Released), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/outer-worlds-spacers-choice-edition-headtracking)
-- **Thief** (Beta), added 2026-09-19 · [GitHub](https://github.com/itsloopyo/thief-headtracking)
 
 <!-- END NEW ADDITIONS -->
 
