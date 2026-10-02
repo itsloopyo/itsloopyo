@@ -89,7 +89,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | Dying Light 2 Stay Human | Released | Steam | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.5.0 (2026-09-30) |
 | Easy Delivery Co | Released | Xbox | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.3.0 (2026-09-29) |
 | Eternal Afternoon | Released | Steam | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.3.0 (2026-09-30) |
-| Fallout 4 | Beta | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | dev build (2026-09-09) |
+| Fallout 4 | Beta | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | dev build (2026-10-01) |
 | Fallout: New Vegas | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.5.0 (2026-10-01) |
 | Far Cry 6 | Released | Steam, Ubisoft Connect | [GitHub](https://github.com/itsloopyo/far-cry-6-headtracking) | v0.3.0 (2026-09-30) |
 | Firewatch | Released | Xbox | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
@@ -134,14 +134,14 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | SOMA | Beta | Steam | [GitHub](https://github.com/itsloopyo/soma-headtracking) | dev build (2026-09-10) |
 | Sons of the Forest | Beta | Steam | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | dev build (2026-08-20) |
 | Spec Ops: The Line | Beta | Steam | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | dev build (2026-09-05) |
-| Starfield | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | dev build (2026-09-14) |
+| Starfield | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | dev build (2026-10-01) |
 | Still Wakes the Deep | Released | Steam | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.3.0 (2026-09-30) |
 | Stormworks: Build and Rescue | Beta | Steam | [GitHub](https://github.com/itsloopyo/stormworks-headtracking) | dev build (2026-09-16) |
 | Subliminal | Released | Steam | [GitHub](https://github.com/itsloopyo/subliminal-headtracking) | v0.2.0 (2026-09-30) |
 | Subnautica | Released | Steam | [GitHub](https://github.com/itsloopyo/subnautica-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica/mods/3169) | v1.5.0 (2026-09-30) |
 | Subnautica 2 | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/subnautica-2-headtracking) · [NexusMods](https://www.nexusmods.com/subnautica2/mods/250) | v0.7.0 (2026-09-30) |
 | Superliminal | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/superliminal-headtracking) | v0.2.0 (2026-09-13) |
-| The Outer Worlds: Spacer's Choice Edition | Released | Steam | [GitHub](https://github.com/itsloopyo/outer-worlds-spacers-choice-edition-headtracking) | v0.1.0 (2026-09-19) |
+| The Outer Worlds: Spacer's Choice Edition | Released | Steam | [GitHub](https://github.com/itsloopyo/outer-worlds-spacers-choice-edition-headtracking) | v0.2.0 (2026-10-01) |
 | The Painscreek Killings | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-painscreek-killings-headtracking) | dev build (2026-08-20) |
 | The Vanishing of Ethan Carter Redux | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-vanishing-of-ethan-carter-redux-headtracking) | dev build (2026-09-11) |
 | The Witness | Beta | Steam | [GitHub](https://github.com/itsloopyo/the-witness-headtracking) | dev build (2026-09-16) |
