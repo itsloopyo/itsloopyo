@@ -81,7 +81,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | Black Mesa | Released | Steam | [GitHub](https://github.com/itsloopyo/black-mesa-headtracking) | v0.2.0 (2026-09-29) |
 | Blue Prince | Beta | Xbox | [GitHub](https://github.com/itsloopyo/blue-prince-headtracking) | dev build (2026-09-30) |
 | Control: Ultimate Edition | Beta | Steam | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | dev build (2026-08-20) |
-| Cyberpunk 2077 | Released | GOG | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.4.2 (2026-10-01) |
+| Cyberpunk 2077 | Released | GOG | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.4.4 (2026-10-02) |
 | Deus Ex: Human Revolution - Director's Cut | Beta | Steam | [GitHub](https://github.com/itsloopyo/deus-ex-human-revolution-headtracking) | dev build (2026-09-05) |
 | Dishonored | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-headtracking) | dev build (2026-09-30) |
 | Dishonored 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-2-headtracking) | dev build (2026-09-16) |
@@ -89,7 +89,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | Dying Light 2 Stay Human | Released | Steam | [GitHub](https://github.com/itsloopyo/dying-light-2-headtracking) · [NexusMods](https://www.nexusmods.com/dyinglight2/mods/1900) | v1.5.0 (2026-09-30) |
 | Easy Delivery Co | Released | Xbox | [GitHub](https://github.com/itsloopyo/easy-delivery-co-headtracking) · [NexusMods](https://www.nexusmods.com/easydeliveryco/mods/18) | v0.3.0 (2026-09-29) |
 | Eternal Afternoon | Released | Steam | [GitHub](https://github.com/itsloopyo/eternal-afternoon-headtracking) | v0.3.0 (2026-09-30) |
-| Fallout 4 | Beta | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | dev build (2026-10-01) |
+| Fallout 4 | Beta | Steam, GOG, Xbox | [GitHub](https://github.com/itsloopyo/fallout-4-headtracking) | dev build (2026-10-02) |
 | Fallout: New Vegas | Released | Steam, Xbox | [GitHub](https://github.com/itsloopyo/fallout-new-vegas-headtracking) | v0.5.0 (2026-10-01) |
 | Far Cry 6 | Released | Steam, Ubisoft Connect | [GitHub](https://github.com/itsloopyo/far-cry-6-headtracking) | v0.3.0 (2026-09-30) |
 | Firewatch | Released | Xbox | [GitHub](https://github.com/itsloopyo/firewatch-headtracking) | v0.4.0 (2026-08-20) |
