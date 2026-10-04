@@ -81,7 +81,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | Black Mesa | Released | Steam | [GitHub](https://github.com/itsloopyo/black-mesa-headtracking) | v0.2.0 (2026-09-29) |
 | Blue Prince | Beta | Xbox | [GitHub](https://github.com/itsloopyo/blue-prince-headtracking) | dev build (2026-09-30) |
 | Control: Ultimate Edition | Beta | Steam | [GitHub](https://github.com/itsloopyo/control-ultimate-edition-headtracking) | dev build (2026-08-20) |
-| Cyberpunk 2077 | Released | GOG | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.4.4 (2026-10-02) |
+| Cyberpunk 2077 | Released | GOG | [GitHub](https://github.com/itsloopyo/cyberpunk-2077-headtracking) · [NexusMods](https://www.nexusmods.com/cyberpunk2077/mods/32865) | v1.4.5 (2026-10-03) |
 | Deus Ex: Human Revolution - Director's Cut | Beta | Steam | [GitHub](https://github.com/itsloopyo/deus-ex-human-revolution-headtracking) | dev build (2026-09-05) |
 | Dishonored | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-headtracking) | dev build (2026-09-30) |
 | Dishonored 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/dishonored-2-headtracking) | dev build (2026-09-16) |
@@ -134,7 +134,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | SOMA | Beta | Steam | [GitHub](https://github.com/itsloopyo/soma-headtracking) | dev build (2026-09-10) |
 | Sons of the Forest | Beta | Steam | [GitHub](https://github.com/itsloopyo/sons-of-the-forest-headtracking) | dev build (2026-08-20) |
 | Spec Ops: The Line | Beta | Steam | [GitHub](https://github.com/itsloopyo/spec-ops-the-line-headtracking) | dev build (2026-09-05) |
-| Starfield | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | dev build (2026-10-01) |
+| Starfield | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/starfield-headtracking) | dev build (2026-10-04) |
 | Still Wakes the Deep | Released | Steam | [GitHub](https://github.com/itsloopyo/still-wakes-the-deep-headtracking) | v0.3.0 (2026-09-30) |
 | Stormworks: Build and Rescue | Beta | Steam | [GitHub](https://github.com/itsloopyo/stormworks-headtracking) | dev build (2026-09-16) |
 | Subliminal | Released | Steam | [GitHub](https://github.com/itsloopyo/subliminal-headtracking) | v0.2.0 (2026-09-30) |
