@@ -142,7 +142,7 @@ To hear about new mods as they land, add [lopari.app/feed.xml](https://lopari.ap
 | Portal 2 | Beta | Steam | [GitHub](https://github.com/itsloopyo/portal-2-headtracking) | dev build (2026-08-20) |
 | Portal with RTX | Released | Steam | [GitHub](https://github.com/itsloopyo/portal-with-rtx-headtracking) | v0.2.0 (2026-10-01) |
 | Prey | Beta | Steam, Xbox | [GitHub](https://github.com/itsloopyo/prey-headtracking) | dev build (2026-09-11) |
-| Project Zomboid | Released | Steam | [GitHub](https://github.com/itsloopyo/project-zomboid-headtracking) | v0.1.0 (2026-10-27) |
+| Project Zomboid | Released | Steam | [GitHub](https://github.com/itsloopyo/project-zomboid-headtracking) | v0.1.1 (2026-10-28) |
 | Quake II RTX | Beta | Steam | [GitHub](https://github.com/itsloopyo/quake-ii-rtx-headtracking) | dev build (2026-09-10) |
 | R.E.P.O. | Beta | Steam | [GitHub](https://github.com/itsloopyo/repo-headtracking) | dev build (2026-08-20) |
 | Red Eclipse | Released | Steam | [GitHub](https://github.com/itsloopyo/red-eclipse-headtracking) | v0.5.0 (2026-09-30) |
